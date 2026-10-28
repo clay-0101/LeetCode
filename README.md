@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/clay-0101/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/clay-0101/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/clay-0101/LeetCode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/clay-0101/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/clay-0101/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/clay-0101/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/clay-0101/LeetCode/tree/master/0217-contains-duplicate) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/clay-0101/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/clay-0101/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/clay-0101/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/clay-0101/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/clay-0101/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/clay-0101/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/clay-0101/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/clay-0101/LeetCode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/clay-0101/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/clay-0101/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/clay-0101/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/clay-0101/LeetCode/tree/master/0349-intersection-of-two-arrays) |
