@@ -37,7 +37,7 @@ var reverseList = function (head) {
     //     curr = upcoming 
 
     // }
-    return prev
+    // return prev
 
 
 
