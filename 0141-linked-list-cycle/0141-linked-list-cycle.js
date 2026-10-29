@@ -11,18 +11,33 @@
  * @return {boolean}
  */
 var hasCycle = function(head) {
-    let temp = head
-    let set = new Set
-    let count = 0
 
-    while(temp !== null){
-        if(set.has(temp)){
+    // Two Pointer
+    let slow = head , fast = head
+    
+    while(fast !== null && fast.next !== null){
+        slow = slow.next
+        fast = fast.next.next
+
+        if(fast === slow){
             return true
         }
-        set.add(temp)
-        temp = temp.next
-
     }
     return false
+
+    //Brute Force
+    // let temp = head
+    // let set = new Set
+  
+
+    // while(temp !== null){
+    //     if(set.has(temp)){
+    //         return true
+    //     }
+    //     set.add(temp)
+    //     temp = temp.next
+
+    // }
+    // return false
 
 };
